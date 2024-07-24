@@ -13,7 +13,7 @@ export const ABOUT_TEXT_2 = `My journey in web development began with a deep cur
 
 export const ABOUT_TEXT_3 = `I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies. Also i started contributing to Open-source projects.`;
 
-export const ABOUT_TEXT_4 = `Besides this i have i have completed my Diploma with Honours in Electronics & Telecommunication Engineering from Utkalmani Gopabandhu Institute of Engineering, Rourkela.`;
+export const ABOUT_TEXT_4 = `Besides this i have completed my Diploma with Honours in Electronics & Telecommunication Engineering from Utkalmani Gopabandhu Institute of Engineering, Rourkela.`;
 
 export const ABOUT_TEXT_5 = `My hobbies include playing strategy-based video games, watching travel vlogs on YouTube, enjoying sci-fi movies and documentary series, and occasionally watching the news. I also solve DSA questions on LeetCode. These activities sharpen my problem-solving skills, enhance my ability to think critically under pressure, and improve my strategic planning abilities—qualities that are invaluable in a professional environment.`;
 

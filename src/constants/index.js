@@ -7,13 +7,13 @@ import project5 from "../assets/projects/project-5.jpg";
 export const HERO_CONTENT = `I am a passionate CS UnderGraduate Student with a knack for crafting robust and scalable web applications. With hands-on experience, I have honed my skills in web development technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
 
-export const ABOUT_TEXT_1 = `I am a dedicated and versatile Computer Science UG Student with a passion for creating efficient and user-friendly web applications. With my professional experience, I have worked with a variety of technologies, including React, Next.js, Vite, Node.js, MySQL, and MongoDB.`;
+export const ABOUT_TEXT_1 = `I am a dedicated and versatile Computer Science Undergraduate Student with a passion for creating efficient and user-friendly web applications. With my professional experience, I have worked with a variety of technologies, including React, Next.js, Vite, Node.js, MySQL, and MongoDB.`;
 
 export const ABOUT_TEXT_2 = `My journey in web development began with a deep curiosity for how things work at Coratia Technologies Pvt. Ltd., and it has evolved into a career where I continuously strive to learn and adapt to new challenges. `;
 
-export const ABOUT_TEXT_3 = `I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, Also is started contributing to open-source projects.`;
+export const ABOUT_TEXT_3 = `I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies. Also i started contributing to Open-source projects.`;
 
-export const ABOUT_TEXT_4 = `Besides this i have i have an Honours in Diploma in Electronics & Telecommunication Engineering(Hons.) from Utkalmani Gopabandhu Institute of Engineering, Rourkela.`;
+export const ABOUT_TEXT_4 = `Besides this i have i have completed my Diploma with Honours in Electronics & Telecommunication Engineering from Utkalmani Gopabandhu Institute of Engineering, Rourkela.`;
 
 export const ABOUT_TEXT_5 = `My hobbies include playing strategy-based video games, watching travel vlogs on YouTube, enjoying sci-fi movies and documentary series, and occasionally watching the news. I also solve DSA questions on LeetCode. These activities sharpen my problem-solving skills, enhance my ability to think critically under pressure, and improve my strategic planning abilities—qualities that are invaluable in a professional environment.`;
 
@@ -43,7 +43,7 @@ export const EXPERIENCES = [
     year: "2019 - 2022",
     role: "Diploma in Electronics & Telecommunication Engineering(Hons.)",
     company: "Utkalmani Gopabandhu Institute of Engineering, Rourkela",
-    description: `Been into the Hardware World of developing different products. Made different real world projects using Arduino. Academically learnt many things about Communication Engineering. Also Worked as an intern at Indian Railways.`,
+    description: `As an Electronics and Telecommunication student, I have been extensively involved in building electronic stuffs, where I developed various products and created real-world projects using Arduino. Academically, I have learned extensively about telecommunication engineering. Additionally, I worked as an intern at Indian Railways.`,
     technologies: ["Arduino", "SemiConductors", "VLSI", "COMMUNICATION ENGINEERING","CIRCUIT DESIGNING","PROTEUS","NI MULTISIM"],
   },
 ];

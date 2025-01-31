@@ -3,6 +3,7 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 import project5 from "../assets/projects/project-5.jpg";
+import project6 from "../assets/projects/project-6.jpg";
 
 export const HERO_CONTENT = `I am a passionate CS UnderGraduate Student with a knack for crafting robust and scalable web applications. With hands-on experience, I have honed my skills in web development technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
@@ -58,14 +59,6 @@ export const PROJECTS = [
     technologies: ["HTML", "CSS","JavaScript","Tailwind","MongoDB","Express","React", "Node.js","Firebase","Google-OAuth","Render"],
   },
   {
-    title: "Task Management App",
-    link: "https://octanet-may-june-x3ua.vercel.app/",
-    image: project2,
-    description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "JavaScript", "React"],
-  },
-  {
     title: "Stocks Monitoring WebApp",
     link: "https://stock-monitoring-webapp-bh5ez22sy.vercel.app/login",
     image: project3,
@@ -74,12 +67,29 @@ export const PROJECTS = [
     technologies: ["React","CSS","TailwindCSS", "JavaScript", "TypeScript","Api(AlphaVantage)","Express", "MongoDB"],
   },
   {
-    title: "Library Management System Development Documentation",
-    link: "https://drive.google.com/file/d/1suUJ141IGdXI-5ZfIyyt3u5UkzMfEXca/view?usp=sharing",
+    title: "Library Management System Development Documentation & Software development",
+    documentation: "https://drive.google.com/file/d/1suUJ141IGdXI-5ZfIyyt3u5UkzMfEXca/view?usp=sharing",
+    link: "https://libmanagsys-1.onrender.com/",
     image: project4,
     description:
       "Conducted a feasibility study, selected SDLC methodology, and estimated project metrics. Prepared detailed SRS, decision trees, and DFDs, along with structure, use case, class, sequence, and activity diagrams.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
+    technologies: ["HTML", "CSS", "React", "HBS", "Node.js", "Express", "MongoDB"],
+  },
+  {
+    title: "Advanced Image Encryption Using AES and Chaotic Maps",
+    link: "https://drive.google.com/drive/folders/1GzdYBCLJKjBYWRK-VRx5ecjoPwJ4yTJ4",
+    image: project6,
+    description:
+      "Worked on the research project Under the guidance of Dr. Suvasini Panigrahi [HOD, CSE Dept VSSUT Burla], I developed a research project focused on securing digital images using a modified AES-based encryption approach. The method enhances security through chaotic key generation, row scrambling, and statistical analysis techniques, ensuring stronger protection against attacks.",
+    technologies: ["Encryption & Cryptography", "Python", "Google Colab", "OpenCV ", "Security evaluation", "performance testing"],
+  },
+  {
+    title: "Task Management App",
+    link: "https://octanet-may-june-x3ua.vercel.app/",
+    image: project2,
+    description:
+      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
+    technologies: ["HTML", "CSS", "JavaScript", "React"],
   },
   {
     title: "Portfolio Website",
@@ -87,12 +97,12 @@ export const PROJECTS = [
     link:"",
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
+    technologies: ["HTML", "CSS", "React"],
   },
 ];
 
 export const CONTACT = {
-  address: "Rourkela-769042 , Odisha, India ",
+  address: "Atri HOR, VSSUT Burla , Sambalpur - 768018, Odisha, India",
   phoneNo: "+91 9668295055",
   email: "ashishrkl31@gmail.com",
 };

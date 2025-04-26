@@ -71,7 +71,7 @@ const Hero = () => {
                         <motion.div variants={container(1)}
                             initial="hidden"
                             animate="visible" className="bg-gradient-to-r from-pink-300 via-slate-500 to-purple-600 bg-clip-text text-3xl tracking-tight text-transparent">
-                            <a href="https://drive.google.com/file/d/1xL1P9S8ACoPKykEPf7Qboetuc4W7vINz/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                            <a href="https://drive.google.com/file/d/1pVh42Pp-OwH942Ag0thjkYx5U45h2lRe/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                         
                             <span>Click here to find my resume....</span>
             

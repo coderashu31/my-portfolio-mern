@@ -24,7 +24,7 @@ export const EXPERIENCES = [
     role: "Web Developer Intern",
     company: "EME (Electro Mech Global) & OSDA (Odisha Skill Development Authority)",
     description: `Training on SAP Certified Associate – ABAP Cloud (C_ABAPD_2309)`,
-    technologies: ["ABAP","HANA DB","ODATA","CDS", "RAP", "Fiori app Developmeny"],
+    technologies: ["ABAP","HANA DB","ODATA","CDS", "RAP", "Fiori app Development"],
   },
   {
     year: "2024",
